@@ -1,5 +1,5 @@
-# Product Name
-> Short blurb about what your product does.
+# NYTimes
+> NY Times Most Popular Articles Test
 
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
