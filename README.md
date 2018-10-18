@@ -25,7 +25,7 @@ Simple app to demonstrate the NY Times Most Popular Articles list.
 
 Abhishek Rathore – abhishek2117@gmail.com
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/abhishek2117/NYTimes](https://github.com/abhishek2117/NYTimes)
 
 [swift-image]:https://img.shields.io/badge/swift-4.2-orange.svg
 [swift-url]: https://swift.org/
