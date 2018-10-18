@@ -29,7 +29,7 @@ To test the app:-
 
 ●	On the left side or the navigation area find the folder named as 'NYTimesTests'.
 
-●	Please find the file named as  'NYTimeTests.m' once find that please click on that and you'll see the test written and available in this project.
+●	Please find the file named as  'NYTimesTests.swift' once find that please click on that and you'll see the test written and available in this project.
 
 ●	To run the Tests press 'cmd+u' so this will run all the tests.
 
