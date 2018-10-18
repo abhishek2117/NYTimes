@@ -13,9 +13,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
+    
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        themeApply()
         return true
     }
 
@@ -41,6 +42,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
     }
 
-
+    func themeApply() {
+        let bar = UINavigationBar.appearance()
+        bar.barTintColor = UIColor.init(red: 71.0/255.0, green: 228.0/255.0, blue: 195.0/255.0, alpha: 1.0)
+        bar.tintColor = UIColor.white
+        bar.isTranslucent = true
+        bar.barStyle = .black
+    }
+    
 }
 
