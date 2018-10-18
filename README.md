@@ -20,6 +20,27 @@ Simple app to demonstrate the NY Times Most Popular Articles list.
 - iOS 11.0+
 - Xcode 10.0
 
+Prerequisites:-
+
+1.	Go to the File Storage into the Macbook Machine and open the Folder Containing the Project.
+2.	User need to open the File name 'NYTimes.xcodeproj'.
+3.	Once file open press 'cmd+b' to BUILD the application.
+4.	Click on the play button on the top left corner or press 'cmd+r' to run the application.
+
+To test the app:-
+
+●	On the left side or the navigation area find the folder named as 'NYTimesTests'.
+●	Please find the file named as  'NYTimeTests.m' once find that please click on that and you'll see the test written and available in this project.
+●	To run the Tests press 'cmd+u' so this will run all the tests.
+●	In Order to run each individual test, Please click on the grey diamond shaped buttons in the gutter of the editor area.
+●	Once User run all the test the code coverage report will be generated.
+●	To find the code coverage report, Goto the navigation area and find the button 'Show the Report Navigator' on the top of navigation area.
+●	Open the List of test reports in this list you'll find the button name as  'Coverage' item, Click on it to view the code coverage report.
+●	To view each individual file code coverage are double click on the file to open and see what parts of the code in the file are tested.
+●	The parts of code that are tested are in the green background color, The ones which aren't are in the red background color.
+●	The Part of code tested is highlighted with Green background color and those are not  tested highlighted as Red background color.
+
+
 
 ## Meta
 
